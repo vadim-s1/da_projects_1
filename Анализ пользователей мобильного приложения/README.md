@@ -23,3 +23,5 @@
 
 ## Используемые библиотеки
 Pandas, Matplotlib, SciPy, NumPy, Math
+
+## Итоговый вывод
