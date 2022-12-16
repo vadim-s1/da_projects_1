@@ -40,3 +40,5 @@
 
 ## Используемые библиотеки
 Pandas, Matplotlib, Seaborn, Folium, Json, Plotly
+
+## Итоговый вывод
